@@ -1,2 +1,4 @@
+B3
+
 1st new file
 add line
