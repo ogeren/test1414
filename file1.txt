@@ -1,4 +1,4 @@
-B3
+merged
 
 1st new file
 add line
